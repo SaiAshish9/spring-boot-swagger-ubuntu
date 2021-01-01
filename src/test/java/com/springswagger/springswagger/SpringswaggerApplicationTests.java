@@ -1,0 +1,13 @@
+package com.springswagger.springswagger;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringswaggerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
